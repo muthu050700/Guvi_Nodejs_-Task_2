@@ -31,4 +31,4 @@ step 4:
 
 -Deployed a project in Render, The url is attached below :
 
-https://guvi-nodejs-task-2-1.onrender.com/room
+https://guvi-nodejs-task-2.onrender.com/room
